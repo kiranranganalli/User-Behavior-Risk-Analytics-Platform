@@ -1,0 +1,201 @@
+content_id,platform,category,action,moderator_id,review_time_sec,timestamp
+C0001,API,Safe,Escalated,mod_7,110.96,2025-06-27T19:21:29.472357
+C0002,API,Spam,Rejected,mod_1,200.63,2025-07-27T19:21:29.472381
+C0003,API,Violence,Auto-Flagged,mod_3,135.79,2025-07-11T19:21:29.472391
+C0004,Web,Safe,Auto-Flagged,mod_1,240.77,2025-07-19T19:21:29.472399
+C0005,Web,Harassment,Rejected,mod_3,155.2,2025-06-28T19:21:29.472407
+C0006,Mobile,Hate Speech,Auto-Flagged,mod_4,36.46,2025-07-07T19:21:29.472415
+C0007,Mobile,Misinformation,Rejected,mod_7,297.04,2025-07-12T19:21:29.472423
+C0008,API,Safe,Escalated,mod_2,50.74,2025-07-22T19:21:29.472435
+C0009,Web,Harassment,Approved,mod_6,27.2,2025-07-06T19:21:29.472448
+C0010,Web,Violence,Auto-Flagged,mod_5,28.86,2025-06-28T19:21:29.472459
+C0011,Web,Hate Speech,Approved,mod_7,265.07,2025-06-28T19:21:29.472471
+C0012,API,Harassment,Escalated,mod_2,183.61,2025-07-10T19:21:29.472495
+C0013,API,Spam,Rejected,mod_7,118.25,2025-07-07T19:21:29.472503
+C0014,Mobile,Hate Speech,Approved,mod_9,289.86,2025-07-25T19:21:29.472510
+C0015,API,Misinformation,Approved,mod_6,100.72,2025-07-14T19:21:29.472517
+C0016,Mobile,Spam,Rejected,mod_9,124.0,2025-07-04T19:21:29.472524
+C0017,Web,Spam,Rejected,mod_2,169.51,2025-07-05T19:21:29.472530
+C0018,Web,Hate Speech,Auto-Flagged,mod_2,217.34,2025-07-12T19:21:29.472537
+C0019,Mobile,Hate Speech,Auto-Flagged,mod_6,117.74,2025-07-06T19:21:29.472543
+C0020,Mobile,Harassment,Rejected,mod_9,6.57,2025-07-21T19:21:29.472550
+C0021,API,Spam,Approved,mod_6,225.08,2025-07-15T19:21:29.472557
+C0022,Mobile,Spam,Approved,mod_10,153.83,2025-07-08T19:21:29.472563
+C0023,Mobile,Harassment,Approved,mod_7,240.65,2025-07-08T19:21:29.472570
+C0024,API,Harassment,Auto-Flagged,mod_8,50.37,2025-07-26T19:21:29.472576
+C0025,Web,Hate Speech,Auto-Flagged,mod_1,177.93,2025-06-28T19:21:29.472583
+C0026,Web,Violence,Rejected,mod_8,292.18,2025-06-27T19:21:29.472589
+C0027,Web,Violence,Auto-Flagged,mod_7,34.11,2025-06-29T19:21:29.472595
+C0028,Web,Harassment,Rejected,mod_9,106.67,2025-07-26T19:21:29.472602
+C0029,API,Harassment,Auto-Flagged,mod_6,16.75,2025-07-14T19:21:29.472608
+C0030,Web,Violence,Approved,mod_2,276.88,2025-07-19T19:21:29.472616
+C0031,Mobile,Misinformation,Escalated,mod_4,190.56,2025-06-29T19:21:29.472622
+C0032,Web,Hate Speech,Auto-Flagged,mod_10,243.89,2025-07-05T19:21:29.472628
+C0033,API,Safe,Rejected,mod_3,250.81,2025-07-21T19:21:29.472634
+C0034,Web,Harassment,Approved,mod_10,157.21,2025-07-23T19:21:29.472641
+C0035,Web,Misinformation,Rejected,mod_3,117.45,2025-07-13T19:21:29.472648
+C0036,Mobile,Hate Speech,Approved,mod_8,15.42,2025-07-08T19:21:29.472654
+C0037,Mobile,Misinformation,Approved,mod_5,142.88,2025-06-28T19:21:29.472661
+C0038,API,Harassment,Auto-Flagged,mod_10,196.95,2025-07-07T19:21:29.472668
+C0039,Mobile,Hate Speech,Auto-Flagged,mod_3,291.04,2025-07-26T19:21:29.472674
+C0040,Mobile,Spam,Approved,mod_3,249.0,2025-07-15T19:21:29.472681
+C0041,Web,Harassment,Auto-Flagged,mod_7,114.25,2025-07-05T19:21:29.472687
+C0042,Mobile,Spam,Auto-Flagged,mod_3,256.55,2025-07-01T19:21:29.472693
+C0043,Web,Harassment,Rejected,mod_8,177.58,2025-07-23T19:21:29.472699
+C0044,API,Violence,Escalated,mod_1,246.03,2025-07-25T19:21:29.472705
+C0045,Web,Violence,Auto-Flagged,mod_9,156.86,2025-07-04T19:21:29.472712
+C0046,Mobile,Spam,Approved,mod_7,82.74,2025-06-30T19:21:29.472719
+C0047,API,Harassment,Approved,mod_4,200.97,2025-07-15T19:21:29.472725
+C0048,Web,Spam,Rejected,mod_10,245.7,2025-07-25T19:21:29.472732
+C0049,Mobile,Spam,Rejected,mod_2,231.26,2025-07-09T19:21:29.472738
+C0050,Web,Safe,Approved,mod_4,292.67,2025-07-05T19:21:29.472744
+C0051,Web,Misinformation,Rejected,mod_9,162.58,2025-07-05T19:21:29.472751
+C0052,Mobile,Misinformation,Auto-Flagged,mod_6,233.11,2025-07-06T19:21:29.472757
+C0053,Web,Spam,Approved,mod_4,289.86,2025-07-17T19:21:29.472763
+C0054,Web,Safe,Approved,mod_7,237.55,2025-07-05T19:21:29.472770
+C0055,API,Spam,Approved,mod_5,279.13,2025-07-16T19:21:29.472776
+C0056,Mobile,Spam,Rejected,mod_2,273.69,2025-07-08T19:21:29.472782
+C0057,Mobile,Hate Speech,Escalated,mod_2,194.01,2025-07-09T19:21:29.472788
+C0058,API,Hate Speech,Escalated,mod_1,54.76,2025-07-04T19:21:29.472794
+C0059,Mobile,Harassment,Escalated,mod_8,7.23,2025-07-16T19:21:29.472801
+C0060,Mobile,Spam,Rejected,mod_6,261.55,2025-07-02T19:21:29.472807
+C0061,Mobile,Misinformation,Approved,mod_8,232.46,2025-07-12T19:21:29.472814
+C0062,API,Violence,Escalated,mod_8,17.45,2025-07-17T19:21:29.472822
+C0063,Mobile,Violence,Rejected,mod_10,232.83,2025-07-23T19:21:29.472828
+C0064,Mobile,Hate Speech,Approved,mod_2,195.55,2025-07-04T19:21:29.472834
+C0065,API,Violence,Approved,mod_6,73.74,2025-06-28T19:21:29.472842
+C0066,Mobile,Misinformation,Auto-Flagged,mod_10,12.4,2025-07-10T19:21:29.472849
+C0067,API,Violence,Escalated,mod_7,34.18,2025-07-26T19:21:29.472855
+C0068,Mobile,Harassment,Rejected,mod_4,208.02,2025-06-28T19:21:29.472861
+C0069,Mobile,Hate Speech,Auto-Flagged,mod_7,44.31,2025-07-22T19:21:29.472869
+C0070,Mobile,Hate Speech,Escalated,mod_3,272.64,2025-07-18T19:21:29.472880
+C0071,Web,Harassment,Escalated,mod_6,222.03,2025-07-14T19:21:29.472892
+C0072,Web,Spam,Escalated,mod_7,263.06,2025-07-23T19:21:29.472903
+C0073,Mobile,Harassment,Approved,mod_9,204.38,2025-07-02T19:21:29.472912
+C0074,API,Hate Speech,Approved,mod_5,277.48,2025-07-03T19:21:29.472918
+C0075,Web,Misinformation,Escalated,mod_6,222.08,2025-07-21T19:21:29.472925
+C0076,Mobile,Harassment,Escalated,mod_3,251.6,2025-06-28T19:21:29.472931
+C0077,Web,Violence,Rejected,mod_4,93.95,2025-07-03T19:21:29.472937
+C0078,Mobile,Violence,Auto-Flagged,mod_6,52.99,2025-07-14T19:21:29.472944
+C0079,Web,Harassment,Approved,mod_6,34.04,2025-07-20T19:21:29.472950
+C0080,Mobile,Violence,Escalated,mod_7,272.32,2025-07-03T19:21:29.472957
+C0081,API,Harassment,Escalated,mod_7,217.49,2025-07-08T19:21:29.472963
+C0082,Web,Safe,Auto-Flagged,mod_1,103.96,2025-07-10T19:21:29.472969
+C0083,Web,Spam,Approved,mod_4,71.65,2025-07-23T19:21:29.472976
+C0084,Web,Misinformation,Auto-Flagged,mod_4,35.5,2025-06-28T19:21:29.472982
+C0085,Mobile,Harassment,Auto-Flagged,mod_10,145.08,2025-06-28T19:21:29.472988
+C0086,Web,Harassment,Approved,mod_7,11.77,2025-07-19T19:21:29.472995
+C0087,Mobile,Safe,Auto-Flagged,mod_7,35.66,2025-07-18T19:21:29.473001
+C0088,Web,Hate Speech,Rejected,mod_3,111.28,2025-07-08T19:21:29.473007
+C0089,Web,Violence,Approved,mod_7,80.01,2025-07-26T19:21:29.473014
+C0090,Web,Safe,Escalated,mod_1,167.85,2025-07-18T19:21:29.473020
+C0091,Web,Spam,Escalated,mod_7,234.29,2025-07-01T19:21:29.473026
+C0092,API,Spam,Escalated,mod_8,144.97,2025-07-06T19:21:29.473032
+C0093,Mobile,Safe,Escalated,mod_7,259.5,2025-07-05T19:21:29.473038
+C0094,API,Spam,Auto-Flagged,mod_5,13.73,2025-06-30T19:21:29.473046
+C0095,Mobile,Safe,Auto-Flagged,mod_2,100.13,2025-07-14T19:21:29.473052
+C0096,Mobile,Safe,Approved,mod_8,197.9,2025-06-28T19:21:29.473058
+C0097,Web,Hate Speech,Rejected,mod_3,230.46,2025-07-19T19:21:29.473064
+C0098,Mobile,Misinformation,Escalated,mod_1,72.62,2025-07-24T19:21:29.473071
+C0099,API,Misinformation,Rejected,mod_7,181.02,2025-07-19T19:21:29.473077
+C0100,Web,Hate Speech,Approved,mod_2,154.4,2025-07-13T19:21:29.473083
+C0101,Mobile,Spam,Escalated,mod_1,128.09,2025-07-13T19:21:29.473090
+C0102,API,Spam,Approved,mod_5,104.62,2025-07-19T19:21:29.473096
+C0103,API,Misinformation,Auto-Flagged,mod_2,102.09,2025-07-22T19:21:29.473102
+C0104,Mobile,Spam,Rejected,mod_4,263.14,2025-06-27T19:21:29.473108
+C0105,Mobile,Hate Speech,Approved,mod_5,179.77,2025-06-27T19:21:29.473115
+C0106,API,Violence,Escalated,mod_1,266.5,2025-07-01T19:21:29.473121
+C0107,Mobile,Misinformation,Approved,mod_5,86.25,2025-07-12T19:21:29.473130
+C0108,Mobile,Hate Speech,Rejected,mod_7,95.24,2025-07-02T19:21:29.473136
+C0109,Mobile,Violence,Escalated,mod_7,217.16,2025-06-28T19:21:29.473142
+C0110,Mobile,Harassment,Approved,mod_2,194.29,2025-07-15T19:21:29.473150
+C0111,Web,Spam,Rejected,mod_9,36.36,2025-07-03T19:21:29.473156
+C0112,Web,Safe,Approved,mod_1,161.07,2025-07-18T19:21:29.473162
+C0113,API,Hate Speech,Rejected,mod_4,178.66,2025-07-19T19:21:29.473168
+C0114,Web,Spam,Auto-Flagged,mod_5,84.9,2025-06-30T19:21:29.473174
+C0115,Web,Safe,Escalated,mod_3,298.29,2025-06-29T19:21:29.473181
+C0116,API,Spam,Escalated,mod_3,117.58,2025-07-16T19:21:29.473187
+C0117,Mobile,Misinformation,Escalated,mod_3,190.19,2025-07-23T19:21:29.473193
+C0118,API,Violence,Escalated,mod_10,218.95,2025-07-13T19:21:29.473199
+C0119,API,Hate Speech,Escalated,mod_1,173.43,2025-07-26T19:21:29.473206
+C0120,API,Misinformation,Escalated,mod_2,298.85,2025-07-10T19:21:29.473212
+C0121,Mobile,Violence,Approved,mod_4,213.92,2025-07-18T19:21:29.473218
+C0122,Web,Spam,Rejected,mod_10,101.16,2025-06-27T19:21:29.473225
+C0123,API,Misinformation,Rejected,mod_8,103.36,2025-07-15T19:21:29.473231
+C0124,Web,Spam,Auto-Flagged,mod_7,36.75,2025-06-28T19:21:29.473237
+C0125,Mobile,Safe,Rejected,mod_5,93.24,2025-07-14T19:21:29.473243
+C0126,API,Safe,Approved,mod_10,142.72,2025-07-20T19:21:29.473251
+C0127,API,Misinformation,Escalated,mod_7,271.64,2025-07-02T19:21:29.473259
+C0128,Web,Hate Speech,Escalated,mod_2,37.71,2025-07-11T19:21:29.473270
+C0129,API,Misinformation,Auto-Flagged,mod_2,63.13,2025-07-26T19:21:29.473280
+C0130,Mobile,Violence,Escalated,mod_1,103.49,2025-07-22T19:21:29.473292
+C0131,Web,Misinformation,Escalated,mod_7,80.38,2025-07-12T19:21:29.473302
+C0132,API,Spam,Approved,mod_2,128.04,2025-07-08T19:21:29.473310
+C0133,Mobile,Harassment,Rejected,mod_9,154.36,2025-07-13T19:21:29.473320
+C0134,API,Misinformation,Escalated,mod_4,162.06,2025-07-08T19:21:29.473333
+C0135,Web,Misinformation,Rejected,mod_10,200.94,2025-06-30T19:21:29.473339
+C0136,Web,Spam,Rejected,mod_3,284.22,2025-07-09T19:21:29.473345
+C0137,Web,Violence,Auto-Flagged,mod_7,222.56,2025-06-30T19:21:29.473355
+C0138,API,Harassment,Rejected,mod_9,292.56,2025-07-09T19:21:29.473366
+C0139,Web,Misinformation,Escalated,mod_1,129.33,2025-07-11T19:21:29.473384
+C0140,Web,Spam,Approved,mod_2,162.98,2025-06-27T19:21:29.473391
+C0141,Mobile,Misinformation,Auto-Flagged,mod_7,46.18,2025-07-18T19:21:29.473398
+C0142,API,Spam,Escalated,mod_6,174.12,2025-07-23T19:21:29.473404
+C0143,Web,Misinformation,Auto-Flagged,mod_5,207.71,2025-07-21T19:21:29.473410
+C0144,API,Safe,Rejected,mod_10,112.63,2025-07-06T19:21:29.473416
+C0145,API,Safe,Auto-Flagged,mod_6,88.1,2025-07-24T19:21:29.473423
+C0146,Mobile,Safe,Auto-Flagged,mod_10,52.63,2025-07-22T19:21:29.473429
+C0147,Web,Violence,Rejected,mod_1,285.45,2025-07-20T19:21:29.473435
+C0148,API,Misinformation,Rejected,mod_7,103.28,2025-07-22T19:21:29.473442
+C0149,Mobile,Harassment,Auto-Flagged,mod_6,253.47,2025-07-09T19:21:29.473448
+C0150,Mobile,Misinformation,Approved,mod_1,290.76,2025-07-09T19:21:29.473455
+C0151,API,Safe,Approved,mod_1,289.06,2025-07-14T19:21:29.473461
+C0152,Mobile,Violence,Rejected,mod_5,29.39,2025-07-22T19:21:29.473467
+C0153,Web,Hate Speech,Auto-Flagged,mod_3,222.19,2025-06-29T19:21:29.473474
+C0154,API,Violence,Rejected,mod_5,220.89,2025-07-03T19:21:29.473480
+C0155,Mobile,Misinformation,Escalated,mod_2,219.53,2025-06-30T19:21:29.473486
+C0156,Mobile,Spam,Approved,mod_8,165.34,2025-07-10T19:21:29.473493
+C0157,API,Spam,Auto-Flagged,mod_7,109.73,2025-07-20T19:21:29.473499
+C0158,API,Misinformation,Approved,mod_7,61.25,2025-07-01T19:21:29.473507
+C0159,Mobile,Spam,Auto-Flagged,mod_7,217.61,2025-07-22T19:21:29.473513
+C0160,Web,Spam,Auto-Flagged,mod_3,106.29,2025-07-10T19:21:29.473520
+C0161,Web,Hate Speech,Approved,mod_7,32.17,2025-07-23T19:21:29.473526
+C0162,API,Spam,Rejected,mod_8,126.2,2025-07-21T19:21:29.473532
+C0163,Web,Misinformation,Approved,mod_4,267.14,2025-07-23T19:21:29.473543
+C0164,API,Safe,Escalated,mod_9,249.07,2025-07-27T19:21:29.473554
+C0165,Web,Hate Speech,Auto-Flagged,mod_8,293.29,2025-07-16T19:21:29.473565
+C0166,API,Spam,Approved,mod_6,12.54,2025-07-04T19:21:29.473575
+C0167,Web,Violence,Rejected,mod_5,47.6,2025-07-23T19:21:29.473581
+C0168,API,Violence,Approved,mod_9,93.97,2025-07-03T19:21:29.473587
+C0169,Web,Safe,Rejected,mod_10,63.01,2025-07-17T19:21:29.473594
+C0170,API,Safe,Escalated,mod_2,123.54,2025-07-17T19:21:29.473600
+C0171,Web,Safe,Approved,mod_2,205.36,2025-07-20T19:21:29.473607
+C0172,Mobile,Hate Speech,Escalated,mod_5,181.08,2025-06-27T19:21:29.473613
+C0173,API,Safe,Approved,mod_2,46.8,2025-07-21T19:21:29.473619
+C0174,API,Violence,Approved,mod_9,14.87,2025-07-12T19:21:29.473626
+C0175,API,Harassment,Approved,mod_1,162.37,2025-07-14T19:21:29.473632
+C0176,Web,Violence,Auto-Flagged,mod_7,207.42,2025-06-30T19:21:29.473639
+C0177,Mobile,Misinformation,Approved,mod_7,252.68,2025-07-07T19:21:29.473645
+C0178,API,Hate Speech,Rejected,mod_1,60.21,2025-07-20T19:21:29.473652
+C0179,Mobile,Safe,Auto-Flagged,mod_1,211.81,2025-07-25T19:21:29.473658
+C0180,Web,Hate Speech,Approved,mod_2,291.14,2025-06-27T19:21:29.473664
+C0181,Web,Harassment,Rejected,mod_4,174.69,2025-07-06T19:21:29.473671
+C0182,Web,Hate Speech,Auto-Flagged,mod_10,264.36,2025-07-11T19:21:29.473677
+C0183,Web,Spam,Approved,mod_7,109.46,2025-06-30T19:21:29.473683
+C0184,API,Hate Speech,Auto-Flagged,mod_10,270.02,2025-07-26T19:21:29.473689
+C0185,API,Violence,Auto-Flagged,mod_8,164.5,2025-07-05T19:21:29.473695
+C0186,Mobile,Safe,Escalated,mod_3,239.61,2025-07-02T19:21:29.473702
+C0187,Mobile,Safe,Rejected,mod_1,130.89,2025-07-23T19:21:29.473708
+C0188,Mobile,Hate Speech,Rejected,mod_9,103.49,2025-07-25T19:21:29.473714
+C0189,Mobile,Safe,Escalated,mod_5,103.88,2025-07-02T19:21:29.473720
+C0190,Mobile,Harassment,Approved,mod_2,240.75,2025-06-29T19:21:29.473728
+C0191,Web,Safe,Escalated,mod_10,212.05,2025-07-19T19:21:29.473734
+C0192,Mobile,Misinformation,Approved,mod_9,86.02,2025-07-27T19:21:29.473741
+C0193,Mobile,Spam,Auto-Flagged,mod_4,21.58,2025-07-19T19:21:29.473747
+C0194,Web,Violence,Approved,mod_3,43.79,2025-07-05T19:21:29.473753
+C0195,API,Safe,Rejected,mod_5,198.7,2025-07-18T19:21:29.473759
+C0196,API,Harassment,Rejected,mod_1,81.4,2025-07-04T19:21:29.473766
+C0197,Web,Harassment,Rejected,mod_9,118.35,2025-07-19T19:21:29.473773
+C0198,API,Hate Speech,Rejected,mod_10,126.72,2025-07-15T19:21:29.473779
+C0199,API,Violence,Approved,mod_10,298.33,2025-07-14T19:21:29.473785
+C0200,Mobile,Violence,Rejected,mod_7,19.43,2025-07-07T19:21:29.473792
