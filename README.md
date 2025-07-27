@@ -68,3 +68,24 @@ This project addresses these challenges through a scalable simulation + analytic
          ┌────────────────────────────┐
          │ Dashboard (BI Tools)       │
          └────────────────────────────┘
+
+moderation_workflow/
+├── README.md
+├── routing_simulator.py      # Content routing simulator using graph model
+├── etl_pipeline.py           # Cleans and loads data into Redshift
+├── moderation_events.json    # Sample simulated event data
+├── schema.sql                # Redshift DDL for structured warehouse
+└── dashboard_description.md  # BI metrics and layout planning
+
+
+CREATE TABLE moderation_reviews (
+    timestamp TIMESTAMP,
+    content_id VARCHAR(64),
+    routed_to VARCHAR(32),
+    review_latency INT,
+    review_accuracy FLOAT,
+    review_cost INT,
+    is_accurate BOOLEAN,
+    cost_bucket VARCHAR(16)
+);
+
