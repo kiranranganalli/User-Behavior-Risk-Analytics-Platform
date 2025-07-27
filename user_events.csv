@@ -1,0 +1,5 @@
+user_id,event,timestamp
+user_001,login,1721841823
+user_002,purchase,1721841883
+user_003,reset_password,1721841900
+user_004,download_report,1721841950
